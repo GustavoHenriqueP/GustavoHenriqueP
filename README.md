@@ -5,9 +5,11 @@
 <a href="https://www.linkedin.com/in/gustavo-h-a-de-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Sobre mim
+##
 
 <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" height="200" />
+
+##
 
 <div>
 <a href="https://github.com/GustavoHenriqueP">
