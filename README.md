@@ -6,4 +6,4 @@
 ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenriqueP&show_icons=true&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/GustavoHenriqueP))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenriqueP&show_icons=true&theme=onedark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/GustavoHenriqueP))
