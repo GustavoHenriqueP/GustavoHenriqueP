@@ -7,7 +7,7 @@
 
 ### Sobre mim
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif))
+![Alt Text](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenriqueP&show_icons=true&theme=codeSTACKr)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/GustavoHenriqueP))
 
