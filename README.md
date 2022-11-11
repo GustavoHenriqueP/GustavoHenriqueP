@@ -8,7 +8,7 @@
 ### Sobre mim
 
 
-<img src"https://tenor.com/view/cat-computer-typing-busy-gif-15481689"/>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenriqueP&show_icons=true&theme=codeSTACKr)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/GustavoHenriqueP))
 
