@@ -1,7 +1,7 @@
 # Olá, Eu sou o Gustavo!
 
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gustavo_henriquedepaula@hotmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-h-a-de-paula/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-000?style=flat-square&logo=Github&logoColor=white&link=gustavo_henriquedepaula@hotmail.com)](gustavo_henriquedepaula@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/gustavo-h-a-de-paula/)](https://www.linkedin.com/in/gustavo-h-a-de-paula/)
 
 ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
