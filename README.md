@@ -1,8 +1,9 @@
 # Olá! :wave:
 
-<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" height="200" /> ##
+<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" height="200" />
 
-<div>
+
+<div>##
 <a href="https://github.com/GustavoHenriqueP">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueP&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueP&layout=compact&langs_count=7&theme=codeSTACKr"/>
