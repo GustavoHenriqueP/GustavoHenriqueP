@@ -4,11 +4,11 @@
   <img align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="170" height="170" />
 </div>
 
-- :man_student: Student of IT Systems Analysys and Development on FATEC-ID.
+- :man_student: Former student of IT Systems Analysys and Development on FATEC-ID.
 
-- :mage: Currently focusing in learn Flutter-Dart and Firebase. But trying to participate in all programming learning events that appears :sweat_smile:
+- :mage: Main stack is Flutter / Dart, but currenty I'am focusing on Web development.
 
-#### Main project which I'am currently working on:
+#### Main project:
 
 - [A de Adote - An app to regional NGOs (ONGs) publicizing their pets available for adoption.](https://github.com/GustavoHenriqueP/a-de-adote)
 
